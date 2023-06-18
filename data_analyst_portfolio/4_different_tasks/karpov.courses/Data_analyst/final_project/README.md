@@ -1,4 +1,4 @@
-# Karpov.courses: специализация "Аналитик данных". Final project
+# Final project
 
 ## About
 
