@@ -29,16 +29,17 @@ Pages code and .csv files saves to dir "flats_from_avito"
 Отображение данных из csv таблиц, полученных парсером, в удобном формате дашборда на Yandex DataLens
 Ссылка на дашборд: https://datalens.yandex.ru/ivkbx3xexkmg8-avito-nedvizhimost
 
-## 3. 
-
-## 4. Different tasks
+## 3. Different tasks
 В этом каталоге представлены прочие проекты, выполненные в период обучения
 
-### 4.1. Euler project
+### 3.1. Euler project
 Некоторые решенные задачи с ресурса "Проект Эйлера" https://euler.jakumo.org/problems.html
 
-### 4.2. Stepic
+### 3.2. Stepic
 Некоторые решенные задачи с пройденных на платформе Stepic курсов
 
-### 4.3. Karpov.courses
+### 3.3. Karpov.courses
 Промежуточный и финальный проекты с курса от Karpov.courses по специализации "Аналитик данных"
+
+### 3.4. Mailer Flask
+Прием данных с формы корзины на сайте, обработка POST запроса, формирование письма о заказе на почту магазина и покупателя
