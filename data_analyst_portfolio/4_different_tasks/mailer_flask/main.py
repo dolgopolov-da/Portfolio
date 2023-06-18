@@ -1,4 +1,3 @@
-#!/home/httpd/vhosts/rooreeroo.mcdir.ru/private/venvs/myvenv/bin/python3.6
 # -*- coding: utf-8 -*-
 
 from flask import Flask, request, render_template, make_response
