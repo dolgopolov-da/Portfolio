@@ -1,4 +1,4 @@
-# Karpov.courses: специализация "Аналитик данных". First Project
+# First Project
 
 ## About
 
