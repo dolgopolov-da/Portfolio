@@ -1,0 +1,1520 @@
+{
+ "categories": [
+  {
+   "title": "Все",
+   "value": "all"
+  },
+  {
+   "title": "Бенгальские свечи",
+   "value": "Бенгальские свечи"
+  },
+  {
+   "title": "Хлопушки",
+   "value": "Хлопушки. Начинка, длина"
+  },
+  {
+   "title": "Пневмохлопушки",
+   "value": "Пневмохлопушки. Начинка, длина"
+  },
+  {
+   "title": "Петарды",
+   "value": "Петарды"
+  },
+  {
+   "title": "Ракеты",
+   "value": "Ракеты"
+  },
+  {
+   "title": "Вертушки летающие (НЛО)",
+   "value": "Вертушки летающие (НЛО)"
+  },
+  {
+   "title": "Вертушки наземные (жуки)",
+   "value": "Вертушки наземные (жуки)"
+  },
+  {
+   "title": "Фонтаны",
+   "value": "Фонтаны"
+  },
+  {
+   "title": "Римские свечи",
+   "value": "Римские свечи (калибр х колич.выстрелов)"
+  },
+  {
+   "title": "Одиночные салюты, фестивальные шары",
+   "value": "Одиночные салюты, фестивальные шары. (калибр \" Х колич шаров)"
+  },
+  {
+   "title": "Батареи салютов",
+   "value": "Батареи салютов  (калибр Х колич. стволов)"
+  },
+  {
+   "title": "Дневные салюты",
+   "value": "Дневные салюты"
+  },
+  {
+   "title": "Дымы",
+   "value": "Дымы"
+  }
+ ],
+ "items": [
+  {
+   "_id": "РС1705",
+   "category": "Бенгальские свечи",
+   "title": "РС1705 Бенгальский огонь-170",
+   "value": 1000,
+   "price": 5165.0,
+   "link": "https://youtu.be/n9cwvZqSq2Q",
+   "hide": false
+  },
+  {
+   "_id": "РС1710",
+   "category": "Бенгальские свечи",
+   "title": "РС1710 Бенгальский огонь 230",
+   "value": 360,
+   "price": 4570.0,
+   "link": "https://youtu.be/JsNE911bm0E",
+   "hide": false
+  },
+  {
+   "_id": "РС1720",
+   "category": "Бенгальские свечи",
+   "title": "РС1720 Бенгальский огонь 300",
+   "value": 3,
+   "price": 100.0,
+   "link": "https://youtu.be/oOArRIsdteE",
+   "hide": false
+  },
+  {
+   "_id": "РС1730",
+   "category": "Бенгальские свечи",
+   "title": "РС1730 Бенгальский огонь 300 УЛЬТРА",
+   "value": 4,
+   "price": 155.0,
+   "link": "https://youtu.be/gVy3SthKDnw",
+   "hide": false
+  },
+  {
+   "_id": "РС1755",
+   "category": "Бенгальские свечи",
+   "title": "РС1755 Цветной бенгальский огонь 300",
+   "value": 300,
+   "price": 4035.0,
+   "link": "https://youtu.be/OqZV70OSlPk",
+   "hide": false
+  },
+  {
+   "_id": "ТР151",
+   "category": "Бенгальские свечи",
+   "title": "ТР151 БЕНГАЛЬСКИЕ СВЕЧИ 400 мм",
+   "value": 3,
+   "price": 265.0,
+   "link": "https://youtu.be/bb9r0QTznkE",
+   "hide": false
+  },
+  {
+   "_id": "РС1725",
+   "category": "Бенгальские свечи",
+   "title": "РС1725 Бенгальский огонь 450",
+   "value": 3,
+   "price": 165.0,
+   "link": "https://youtu.be/Tp6VQJtmUXs",
+   "hide": false
+  },
+  {
+   "_id": "РС1735",
+   "category": "Бенгальские свечи",
+   "title": "РС1735 Бенгальский огонь 450 УЛЬТРА",
+   "value": 4,
+   "price": 265.0,
+   "link": "https://youtu.be/DOpDWJtbewk",
+   "hide": false
+  },
+  {
+   "_id": "РС1910",
+   "category": "Бенгальские свечи",
+   "title": "РС1910 Фонтан настольный 100",
+   "value": 100,
+   "price": 5910.0,
+   "link": "https://youtu.be/_hkhQqYAlsc",
+   "hide": false
+  },
+  {
+   "_id": "Р4810",
+   "category": "Бенгальские свечи",
+   "title": "Р4810 Фонтан настольный (уп)",
+   "value": 48,
+   "price": 2745.0,
+   "link": "https://youtu.be/tRfOerfoE8U",
+   "hide": false
+  },
+  {
+   "_id": "РС1792",
+   "category": "Бенгальские свечи",
+   "title": "РС1792 Сигнал из космоса 200мм (30 сек 5 см)",
+   "value": 4,
+   "price": 65.0,
+   "link": "https://youtu.be/mLRNlRWRjo8",
+   "hide": false
+  },
+  {
+   "_id": "РС1780",
+   "category": "Бенгальские свечи",
+   "title": "РС1780 Цветной искристый огонь",
+   "value": 4,
+   "price": 155.0,
+   "link": "https://youtu.be/nm7wD-3tR50",
+   "hide": false
+  },
+  {
+   "_id": "РС1805",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "РС1805 Хлопушка с золотым  конфетти",
+   "value": 32,
+   "price": 1660.0,
+   "link": "https://youtu.be/NaUbw20xszY",
+   "hide": false
+  },
+  {
+   "_id": "РС1807",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "РС1807 Хлопушка с игрушкой",
+   "value": 32,
+   "price": 2220.0,
+   "link": "https://youtu.be/2NEbUIFUqOA",
+   "hide": false
+  },
+  {
+   "_id": "ТР102",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "ТР102 Хлопушка \"Супер\" 100мм конфетти",
+   "value": 1,
+   "price": 60.0,
+   "link": "https://tsz-sp.ru/upload/resize_cache/iblock/b0a/428_428_0/%D0%A2%D0%A0102.jpg",
+   "hide": false
+  },
+  {
+   "_id": "ТР106",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "ТР106 Хлопушка \"Супер\" 100мм конфетти",
+   "value": 3,
+   "price": 170.0,
+   "link": "https://tsz-sp.ru/upload/resize_cache/iblock/c65/428_428_0/%D0%A2%D0%A0106_1.jpg",
+   "hide": false
+  },
+  {
+   "_id": "ТР107",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "ТР107 Хлопуш. \"Супер с сюрпр\" 100мм сувенир+конф (до 3м)",
+   "value": 3,
+   "price": 180.0,
+   "link": "https://tsz-sp.ru/upload/resize_cache/iblock/a8a/428_428_0/%D0%A2%D0%A0107_1.jpg",
+   "hide": false
+  },
+  {
+   "_id": "ТР108",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "ТР108 Хлопушка \"Супер с серпантином\" 100мм",
+   "value": 3,
+   "price": 210.0,
+   "link": "https://tsz-sp.ru/upload/resize_cache/iblock/25d/428_428_0/%D0%A2%D0%A0108_1.jpg",
+   "hide": false
+  },
+  {
+   "_id": "РС1840",
+   "category": "Хлопушки. Начинка, длина",
+   "title": "РС1840 Хлопушка ЛИСТОПАД конфетти фольга",
+   "value": 2,
+   "price": 195.0,
+   "link": "https://youtu.be/5bCW8_IOYds",
+   "hide": false
+  },
+  {
+   "_id": "АС0134",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0134 Пневмохлопушка \"Калейдоскоп-30\" (50х300) металл кругл цветн",
+   "value": 12,
+   "price": 4320.0,
+   "link": "https://youtu.be/TzEfkg-KdOk",
+   "hide": false
+  },
+  {
+   "_id": "АС0135",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0135 Пневмохлопушка \"Юбилейная-30\" (50х300) металл прямоуг цветн",
+   "value": 12,
+   "price": 3975.0,
+   "link": "https://youtu.be/YiVbl8ix8XU",
+   "hide": false
+  },
+  {
+   "_id": "АС0137",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0137 Пневмохлопушка \"Белое золото-30\" (50х300) металл прямоуг серебро",
+   "value": 12,
+   "price": 4150.0,
+   "link": "https://youtu.be/t-JfxwHKHK4",
+   "hide": false
+  },
+  {
+   "_id": "АС0138",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0138 Пневмохлопушка \"Мальчик или девочка-30\" (50х300) бум прямоуг розов/голуб",
+   "value": 12,
+   "price": 3975.0,
+   "link": "https://youtu.be/7MdBBnBl5b8",
+   "hide": false
+  },
+  {
+   "_id": "АС0334",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0334 Пневмохлопушка \"Новогодняя-30\" (50х300) метал елочки зелен",
+   "value": 12,
+   "price": 4670.0,
+   "link": "https://youtu.be/itGcBMtxfxc",
+   "hide": false
+  },
+  {
+   "_id": "АС0335",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0335 Пневмохлопушка \"Снежинки-30\" (50х300) метал снежинки цветн",
+   "value": 12,
+   "price": 4670.0,
+   "link": "https://youtu.be/ZCy6wpb5XiQ",
+   "hide": false
+  },
+  {
+   "_id": "АС0151",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0151 Пневмохлопушка \"Звездопад-50\" (50х500) бум цветн звездочки",
+   "value": 12,
+   "price": 6050.0,
+   "link": "https://youtu.be/ILPL0jaa1Lk",
+   "hide": false
+  },
+  {
+   "_id": "АС0153",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0153 Пневмохлопушка \"Бум!Конфетти-50\" (50х500) кругл цветн",
+   "value": 12,
+   "price": 6050.0,
+   "link": "https://youtu.be/hpDYDNdFVHs",
+   "hide": false
+  },
+  {
+   "_id": "АС0154",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0154 Пневмохлопушка \"Калейдоскоп-50\" (50х500) металл кругл цветн",
+   "value": 12,
+   "price": 6880.0,
+   "link": "https://youtu.be/D2Beez6H6Ww",
+   "hide": false
+  },
+  {
+   "_id": "АС0155",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0155 Пневмохлопушка \"Юбилейная-50\" (50х500) металл прямоуг цветн",
+   "value": 12,
+   "price": 6050.0,
+   "link": "https://youtu.be/EDvtt0JBRC0",
+   "hide": false
+  },
+  {
+   "_id": "АС0156",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0156 Пневмохлопушка \"Чистое золото-50\" (50х500) металл прямоуг золото",
+   "value": 12,
+   "price": 6395.0,
+   "link": "https://youtu.be/qdVKVjJuSnI",
+   "hide": false
+  },
+  {
+   "_id": "АС0157",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0157 Пневмохлопушка \"Белое золото-50\" (50х500) металл прямоуг серебро",
+   "value": 12,
+   "price": 6395.0,
+   "link": "https://youtu.be/7RfYW1gD1FY",
+   "hide": false
+  },
+  {
+   "_id": "АС0158",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0158 Пневмохлопушка \"Мальчик или девочка-50\" (50х500) бум прямоуг розов/голуб",
+   "value": 12,
+   "price": 6050.0,
+   "link": "https://youtu.be/RaJ5tIQvdHU",
+   "hide": false
+  },
+  {
+   "_id": "АС0253",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0253 Пневмохлопушка 50см метал.сердца",
+   "value": 12,
+   "price": 4195.0,
+   "link": "https://youtu.be/bkLAk7Hw9uk",
+   "hide": false
+  },
+  {
+   "_id": "АС0256",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0256 Пневмохлопушка 50см лепестки роз",
+   "value": 1,
+   "price": 200.0,
+   "link": "https://youtu.be/7pDpacVWo8M",
+   "hide": false
+  },
+  {
+   "_id": "АС0354",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0354 Пневмохлопушка \"Новогодняя-50\" (50х500) метал елочки зелен",
+   "value": 12,
+   "price": 7435.0,
+   "link": "https://youtu.be/a0lFbXfLFRQ",
+   "hide": false
+  },
+  {
+   "_id": "АС0457",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0457 Пневмохлопушка 50см, евро + бум.конфетти",
+   "value": 1,
+   "price": 170.0,
+   "link": "https://youtu.be/qGsU56FXHdw",
+   "hide": false
+  },
+  {
+   "_id": "Р9062",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "Р9062 Хлоп. СВАДЕБНАЯ бум конф сердце 60 см (5-8м)",
+   "value": 1,
+   "price": 300.0,
+   "link": "https://youtu.be/M824G4naF5c",
+   "hide": false
+  },
+  {
+   "_id": "Р9063",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "Р9063 Хлоп. СВАДЕБНАЯ ткан лепест+фольг сердце 60 см (5-8м)",
+   "value": 1,
+   "price": 430.0,
+   "link": "https://youtu.be/0LVMPGalKYo",
+   "hide": false
+  },
+  {
+   "_id": "АС0100",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "АС0100 Батарея пневмохлопушек (8х50см) цветн конф.+серпант.+пульт",
+   "value": 1,
+   "price": 5190.0,
+   "link": "https://youtu.be/zgtk_chh_UY",
+   "hide": false
+  },
+  {
+   "_id": "РС003",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "РС003 Серпантин ПОБЕДА  (связка 30 лент бумажн разноцв.)",
+   "value": 1,
+   "price": 85.0,
+   "link": "https://youtu.be/1lb6CRg-BXg",
+   "hide": false
+  },
+  {
+   "_id": "РС005",
+   "category": "Пневмохлопушки. Начинка, длина",
+   "title": "РС005 Серпантин СВАДЬБА  (связка 30 лент фольгирован разноцв.)",
+   "value": 1,
+   "price": 110.0,
+   "link": "https://youtu.be/-Kvkh1pikpg",
+   "hide": false
+  },
+  {
+   "_id": "Р1032",
+   "category": "Петарды",
+   "title": "Р1032 Вспыш (бл)",
+   "value": 108,
+   "price": 3555.0,
+   "link": "https://youtu.be/zbgrl41ulnM?t=2",
+   "hide": false
+  },
+  {
+   "_id": "Р1106",
+   "category": "Петарды",
+   "title": "Р1106 Корсар-1(бл)",
+   "value": 720,
+   "price": 1515.0,
+   "link": "https://youtu.be/epfAqnBsVvk",
+   "hide": false
+  },
+  {
+   "_id": "РС0121",
+   "category": "Петарды",
+   "title": "РС0121 Команда Корсара Моргана-1",
+   "value": 720,
+   "price": 1465.0,
+   "link": "https://youtu.be/kXxjFWr0W8Y",
+   "hide": false
+  },
+  {
+   "_id": "Р1035",
+   "category": "Петарды",
+   "title": "Р1035 Атас!",
+   "value": 3,
+   "price": 170.0,
+   "link": "https://youtu.be/wk0FSefOX8g",
+   "hide": false
+  },
+  {
+   "_id": "РС0222",
+   "category": "Петарды",
+   "title": "РС0222 Команда Корсара Моргана-2",
+   "value": 300,
+   "price": 1315.0,
+   "link": "https://youtu.be/iPfGgQBLPms",
+   "hide": false
+  },
+  {
+   "_id": "Р1320",
+   "category": "Петарды",
+   "title": "Р1320 Бам-бух (бл)",
+   "value": 120,
+   "price": 940.0,
+   "link": "https://youtu.be/HzIQpKznfEI",
+   "hide": false
+  },
+  {
+   "_id": "Р1330",
+   "category": "Петарды",
+   "title": "Р1330 Убойная сила (бл)",
+   "value": 120,
+   "price": 985.0,
+   "link": "https://youtu.be/8Kk4dt1wS3E",
+   "hide": false
+  },
+  {
+   "_id": "РС0323",
+   "category": "Петарды",
+   "title": "РС0323 Команда Корсара Моргана-3",
+   "value": 100,
+   "price": 695.0,
+   "link": "https://youtu.be/5d9ZR4-vVUM",
+   "hide": false
+  },
+  {
+   "_id": "РС0424",
+   "category": "Петарды",
+   "title": "РС0424 Команда Корсара Моргана-4",
+   "value": 144,
+   "price": 2500.0,
+   "link": "https://youtu.be/BeNvQMGy8wU",
+   "hide": false
+  },
+  {
+   "_id": "Р2300",
+   "category": "Ракеты",
+   "title": "Р2300 Ассорти ракета (уп)",
+   "value": 6,
+   "price": 680.0,
+   "link": "https://youtu.be/smYfleCK0sk",
+   "hide": false
+  },
+  {
+   "_id": "Р2440",
+   "category": "Ракеты",
+   "title": "Р2440 Ястреб",
+   "value": 4,
+   "price": 770.0,
+   "link": "https://youtu.be/h4Azz3oW8wU",
+   "hide": false
+  },
+  {
+   "_id": "Р2464",
+   "category": "Ракеты",
+   "title": "Р2464 Tristar (новый эфект)  (уп)",
+   "value": 3,
+   "price": 1235.0,
+   "link": "https://youtu.be/fHdX9wBDDQM",
+   "hide": false
+  },
+  {
+   "_id": "Р3020",
+   "category": "Вертушки летающие (НЛО)",
+   "title": "Р3020 Мотылек (бл)",
+   "value": 120,
+   "price": 2305.0,
+   "link": "https://youtu.be/iV8ciGFkMWI",
+   "hide": false
+  },
+  {
+   "_id": "РС1420",
+   "category": "Вертушки летающие (НЛО)",
+   "title": "РС1420 Волшебный мотылёк",
+   "value": 12,
+   "price": 520.0,
+   "link": "https://youtu.be/eiXE5P_aPr4",
+   "hide": false
+  },
+  {
+   "_id": "Р3110",
+   "category": "Вертушки летающие (НЛО)",
+   "title": "Р3110 Лунный цветок (уп)",
+   "value": 6,
+   "price": 360.0,
+   "link": "https://youtu.be/bKFA7FB98oI",
+   "hide": false
+  },
+  {
+   "_id": "РС1450",
+   "category": "Вертушки летающие (НЛО)",
+   "title": "РС1450 Стрекоза",
+   "value": 2,
+   "price": 710.0,
+   "link": "https://youtu.be/fj-xUn_hHJo",
+   "hide": false
+  },
+  {
+   "_id": "Р3100",
+   "category": "Вертушки летающие (НЛО)",
+   "title": "Р3100 Солнечный цветок (уп)",
+   "value": 6,
+   "price": 930.0,
+   "link": "https://youtu.be/qvm_5DbEjZo",
+   "hide": false
+  },
+  {
+   "_id": "Р3530",
+   "category": "Вертушки наземные (жуки)",
+   "title": "Р3530 Мега-жук (бл)",
+   "value": 72,
+   "price": 2285.0,
+   "link": "https://youtu.be/JNV8a990dzs",
+   "hide": false
+  },
+  {
+   "_id": "РС1362",
+   "category": "Вертушки наземные (жуки)",
+   "title": "РС1362 Улётный Жук",
+   "value": 72,
+   "price": 2090.0,
+   "link": "https://youtu.be/aKQQetqxY7Q",
+   "hide": false
+  },
+  {
+   "_id": "Р4216",
+   "category": "Фонтаны",
+   "title": "Р4216 Тамада ",
+   "value": 1,
+   "price": 310.0,
+   "link": "https://youtu.be/BkK_UGfOLN4",
+   "hide": false
+  },
+  {
+   "_id": "Е-С105",
+   "category": "Фонтаны",
+   "title": "Е-С105 Поп корн",
+   "value": 4,
+   "price": 1515.0,
+   "link": "https://youtu.be/Th8Itvs2UoE",
+   "hide": false
+  },
+  {
+   "_id": "РС4164",
+   "category": "Фонтаны",
+   "title": "РС4164 Золото персидской ночи",
+   "value": 1,
+   "price": 1670.0,
+   "link": "https://youtu.be/AiWu0nvIXbE",
+   "hide": false
+  },
+  {
+   "_id": "РС4165",
+   "category": "Фонтаны",
+   "title": "РС4165 Серебро персидской ночи",
+   "value": 1,
+   "price": 1670.0,
+   "link": "https://youtu.be/VDtAXklZrv4",
+   "hide": false
+  },
+  {
+   "_id": "Р4115",
+   "category": "Фонтаны",
+   "title": "Р4115 Волшебный вулкан",
+   "value": 1,
+   "price": 1815.0,
+   "link": "https://youtu.be/7Blov9sGcM0",
+   "hide": false
+  },
+  {
+   "_id": "Р4116",
+   "category": "Фонтаны",
+   "title": "Р4116 Мороз-party",
+   "value": 1,
+   "price": 1080.0,
+   "link": "https://youtu.be/2wZPmvMJeLQ",
+   "hide": false
+  },
+  {
+   "_id": "РС4162",
+   "category": "Фонтаны",
+   "title": "РС4162 Фонтан Благородная Фудзияма",
+   "value": 1,
+   "price": 1680.0,
+   "link": "https://youtu.be/OvHPJbU8Gi8",
+   "hide": false
+  },
+  {
+   "_id": "РС4010",
+   "category": "Фонтаны",
+   "title": "РС4010 Калаш",
+   "value": 1,
+   "price": 660.0,
+   "link": "https://youtu.be/nXWQwFI1goQ",
+   "hide": false
+  },
+  {
+   "_id": "РС4020",
+   "category": "Фонтаны",
+   "title": "РС4020 Волшебная палочка",
+   "value": 1,
+   "price": 825.0,
+   "link": "https://youtu.be/Gyu29-dK9ko",
+   "hide": false
+  },
+  {
+   "_id": "РС4018",
+   "category": "Фонтаны",
+   "title": "РС4018 Меч-кладенец",
+   "value": 1,
+   "price": 590.0,
+   "link": "https://youtu.be/Dks2uFs0lJQ",
+   "hide": false
+  },
+  {
+   "_id": "РС4030",
+   "category": "Фонтаны",
+   "title": "РС4030 Лапа Йети",
+   "value": 2,
+   "price": 3480.0,
+   "link": "https://youtu.be/fk7vwJFSQcU",
+   "hide": false
+  },
+  {
+   "_id": "Р5542",
+   "category": "Римские свечи (калибр х колич.выстрелов)",
+   "title": "Р5542 Ламбада (0,8\"х8)",
+   "value": 2,
+   "price": 1050.0,
+   "link": "https://youtu.be/4VoiZ4KA4wI",
+   "hide": false
+  },
+  {
+   "_id": "РС5720",
+   "category": "Римские свечи (калибр х колич.выстрелов)",
+   "title": "РС5720 Связка РС Южный крест (0,8\"х40)",
+   "value": 1,
+   "price": 2880.0,
+   "link": "https://youtu.be/9BVj-bhNBDs",
+   "hide": false
+  },
+  {
+   "_id": "РС5810",
+   "category": "Римские свечи (калибр х колич.выстрелов)",
+   "title": "РС5810 РПГ Муха (0,3\"х140)",
+   "value": 1,
+   "price": 1910.0,
+   "link": "https://youtu.be/3mNpM81t78g",
+   "hide": false
+  },
+  {
+   "_id": "РС5820",
+   "category": "Римские свечи (калибр х колич.выстрелов)",
+   "title": "РС5820 РПО Шмель (0,3\"х320)",
+   "value": 1,
+   "price": 4190.0,
+   "link": "https://youtu.be/gw5MitIg22g",
+   "hide": false
+  },
+  {
+   "_id": "РС5830",
+   "category": "Римские свечи (калибр х колич.выстрелов)",
+   "title": "РС5830 Гатлинг (0,3\"х660)",
+   "value": 1,
+   "price": 3950.0,
+   "link": "https://youtu.be/bkEHydnjzuQ",
+   "hide": false
+  },
+  {
+   "_id": "Р6210",
+   "category": "Одиночные салюты, фестивальные шары. (калибр \" Х колич шаров)",
+   "title": "Р6210 Матрешка (1,75\"х6)",
+   "value": 1,
+   "price": 1920.0,
+   "link": "https://youtu.be/au9VxVSpBDI",
+   "hide": false
+  },
+  {
+   "_id": "Р6260",
+   "category": "Одиночные салюты, фестивальные шары. (калибр \" Х колич шаров)",
+   "title": "Р6260 Бомбардиръ (2\"х6)",
+   "value": 1,
+   "price": 3890.0,
+   "link": "https://youtu.be/2UDHwsVnyAU",
+   "hide": false
+  },
+  {
+   "_id": "РС6305",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6305 Снегурочка (0,8\"х16)",
+   "value": 1,
+   "price": 1310.0,
+   "link": "https://youtu.be/kjqq8s1FGLU",
+   "hide": false
+  },
+  {
+   "_id": "РС6330",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6330 Три белых коня... (0,8\"х16)",
+   "value": 1,
+   "price": 1500.0,
+   "link": "https://youtu.be/TJRWpi4HLOk",
+   "hide": false
+  },
+  {
+   "_id": "ОС6255",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6255 Веснушки (0,8\"х19)",
+   "value": 1,
+   "price": 1500.0,
+   "link": "https://youtu.be/Wzz4oRc56dk",
+   "hide": false
+  },
+  {
+   "_id": "ОС6251",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6251 Подсолнухи (0,8\"х19)",
+   "value": 1,
+   "price": 1555.0,
+   "link": "https://youtu.be/eom7vv7FK2w",
+   "hide": false
+  },
+  {
+   "_id": "Р7216",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7216 Под шашлычок! (0,8\"х19)",
+   "value": 1,
+   "price": 1580.0,
+   "link": "https://youtu.be/-06wLoFxbj8",
+   "hide": false
+  },
+  {
+   "_id": "Р7210",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7210 Елка с огоньком (0,8\"х13)",
+   "value": 1,
+   "price": 1585.0,
+   "link": "https://youtu.be/moQdfHnpsRk",
+   "hide": false
+  },
+  {
+   "_id": "Р7018",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7018 Фуршет (0,6\"х32)",
+   "value": 1,
+   "price": 1620.0,
+   "link": "https://youtu.be/k-HNOYrAkGw",
+   "hide": false
+  },
+  {
+   "_id": "РС6291",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6291 Мармелад (0,9\"х14)",
+   "value": 1,
+   "price": 1670.0,
+   "link": "https://youtu.be/TL8QjOdWtWs",
+   "hide": false
+  },
+  {
+   "_id": "Р7281",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7281 Крендель (0,8\"х25)",
+   "value": 1,
+   "price": 1765.0,
+   "link": "https://youtu.be/aVVuVZ6EYJs",
+   "hide": false
+  },
+  {
+   "_id": "Е-С420",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Е-С420 Май бах! (1,0\"х16)",
+   "value": 1,
+   "price": 1820.0,
+   "link": "https://youtu.be/m0bgqEosHjc",
+   "hide": false
+  },
+  {
+   "_id": "ОС7222",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС7222 Чайна-Таун (1,1\"х16)",
+   "value": 1,
+   "price": 1860.0,
+   "link": "https://youtu.be/5eSRCN2zhy4",
+   "hide": false
+  },
+  {
+   "_id": "ОС6330",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6330 Ход конём (0,8\"х25)",
+   "value": 1,
+   "price": 1890.0,
+   "link": "https://youtu.be/hsn2oOMlnmQ",
+   "hide": false
+  },
+  {
+   "_id": "ОС6341",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6341 Финт ушами (0,8\"х25)",
+   "value": 1,
+   "price": 1890.0,
+   "link": "https://youtu.be/2s3LeBvGB4k",
+   "hide": false
+  },
+  {
+   "_id": "РС7062",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7062 Милашка (1,1\"х16)",
+   "value": 1,
+   "price": 1910.0,
+   "link": "https://youtu.be/TNSM2ia0JPs",
+   "hide": false
+  },
+  {
+   "_id": "Р7461",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7461 В Новый год! (1,0\"х16)",
+   "value": 1,
+   "price": 1950.0,
+   "link": "https://youtu.be/bm0cTR1XKAg",
+   "hide": false
+  },
+  {
+   "_id": "РС8051",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8051 Опа! Анапа! (1,1\"х14)",
+   "value": 1,
+   "price": 2270.0,
+   "link": "https://youtu.be/K8Db-myfKu4",
+   "hide": false
+  },
+  {
+   "_id": "РС7070",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7070 Зимние узоры (1,1\"х19)",
+   "value": 1,
+   "price": 2270.0,
+   "link": "https://youtu.be/dyC6T4y5Sus",
+   "hide": false
+  },
+  {
+   "_id": "Р7471",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7471 Зорро (1,0\"х19)",
+   "value": 1,
+   "price": 2335.0,
+   "link": "https://youtu.be/LfiNAfu8dAc",
+   "hide": false
+  },
+  {
+   "_id": "Р7468",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7468 Капитан Морган (1,0\"х19)",
+   "value": 1,
+   "price": 2385.0,
+   "link": "https://youtu.be/rBsfv0TDsAw",
+   "hide": false
+  },
+  {
+   "_id": "Р7314",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7314 Сомбреро (0,8\"х26)",
+   "value": 1,
+   "price": 2530.0,
+   "link": "https://youtu.be/y1T3qM-B9Yk",
+   "hide": false
+  },
+  {
+   "_id": "Р7317",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7317 Аты-баты  (0,8\"х30)",
+   "value": 1,
+   "price": 2625.0,
+   "link": "https://youtu.be/p9OBLTGFsvA",
+   "hide": false
+  },
+  {
+   "_id": "РС6021",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6021 Зима-чародейка (0,6\"х48)",
+   "value": 1,
+   "price": 2630.0,
+   "link": "https://youtu.be/Xxk2GGQ9Xgc",
+   "hide": false
+  },
+  {
+   "_id": "РС8081",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8081 В день рождения (1,1\"х19)",
+   "value": 1,
+   "price": 2630.0,
+   "link": "https://youtu.be/WCCELcFEVR4",
+   "hide": false
+  },
+  {
+   "_id": "РС8091",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8091 Разноцветные  снежинки (1,1\"х19)",
+   "value": 1,
+   "price": 2630.0,
+   "link": "https://youtu.be/VJrL2nBVbck",
+   "hide": false
+  },
+  {
+   "_id": "Р7491",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7491 Снежный барс (1,0\"х25)",
+   "value": 1,
+   "price": 2920.0,
+   "link": "https://youtu.be/kKQ9KdtDa4E",
+   "hide": false
+  },
+  {
+   "_id": "РС6510",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6510 Озеро Рица (0,8\"х36)",
+   "value": 1,
+   "price": 2940.0,
+   "link": "https://youtu.be/Yo1fi-zrJMA",
+   "hide": false
+  },
+  {
+   "_id": "Р7026",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7026 Салют-бар (0,7\"х48)",
+   "value": 1,
+   "price": 2950.0,
+   "link": "https://youtu.be/IgI6GPyxvtY",
+   "hide": false
+  },
+  {
+   "_id": "РС5860",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС5860 ЗРК Панцирь (0,3\"х153)",
+   "value": 1,
+   "price": 2990.0,
+   "link": "https://youtu.be/MWNWHhvCvg4",
+   "hide": false
+  },
+  {
+   "_id": "Р7492",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7492 Снегурочка (1,0\"х25)",
+   "value": 1,
+   "price": 3050.0,
+   "link": "https://youtu.be/x-l_sim-Fl8",
+   "hide": false
+  },
+  {
+   "_id": "РС5870",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС5870 ЗРК Куб (0,3\"х123)",
+   "value": 1,
+   "price": 3110.0,
+   "link": "https://youtu.be/rHTz53-hw4I",
+   "hide": false
+  },
+  {
+   "_id": "ОС8326",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС8326 Для крутых девчонок (1,1\"х25)",
+   "value": 1,
+   "price": 3230.0,
+   "link": "https://youtu.be/M6OdRrIUFgM",
+   "hide": false
+  },
+  {
+   "_id": "ОС6432",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6432 Дух огня (0,8\"х48)",
+   "value": 1,
+   "price": 3595.0,
+   "link": "https://youtu.be/4TjQAH1u9JM",
+   "hide": false
+  },
+  {
+   "_id": "ОС6490",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6490 Ковбой (0,8\"х48)",
+   "value": 1,
+   "price": 3595.0,
+   "link": "https://youtu.be/XIwqYhILa3Q",
+   "hide": false
+  },
+  {
+   "_id": "Р7498",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7498 Командир (1,0\"х36)",
+   "value": 1,
+   "price": 3625.0,
+   "link": "https://youtu.be/t8dNd3qHtiM",
+   "hide": false
+  },
+  {
+   "_id": "Р7690",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7690 Провокация (1,25\"х24)",
+   "value": 1,
+   "price": 3840.0,
+   "link": "https://youtu.be/v5DrTQKdzns",
+   "hide": false
+  },
+  {
+   "_id": "Р7033",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7033 Новогодиус  (0,6\"х80)",
+   "value": 1,
+   "price": 4045.0,
+   "link": "https://youtu.be/ED18LVmk3Ko",
+   "hide": false
+  },
+  {
+   "_id": "Р7500",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7500 Амигос (1,0\"х36)",
+   "value": 1,
+   "price": 4195.0,
+   "link": "https://youtu.be/HMKplQP4VkU",
+   "hide": false
+  },
+  {
+   "_id": "РС7240",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7240 Жизнь удалась! (1,1\"х36)",
+   "value": 1,
+   "price": 4800.0,
+   "link": "https://youtu.be/keMLq3X3LOs",
+   "hide": false
+  },
+  {
+   "_id": "ОС6020",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6020 Амстердам (0,6\"х88)",
+   "value": 1,
+   "price": 4920.0,
+   "link": "https://youtu.be/BKoYFdK8sLQ",
+   "hide": false
+  },
+  {
+   "_id": "РС6055",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6055 Семейный праздник (0,6\"х88)",
+   "value": 1,
+   "price": 5030.0,
+   "link": "https://youtu.be/ifM_IgLSNdY",
+   "hide": false
+  },
+  {
+   "_id": "РС8241",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8241 Новогодние фантазии (1,1\"х36)",
+   "value": 1,
+   "price": 5150.0,
+   "link": "https://youtu.be/xwqgn4cyyNA",
+   "hide": false
+  },
+  {
+   "_id": "Р7514",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7514 Король вечеринок (1,0\"х48)",
+   "value": 1,
+   "price": 5755.0,
+   "link": "https://youtu.be/Xr3UZTvZ_5A",
+   "hide": false
+  },
+  {
+   "_id": "ОС7545",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС7545 Для реальных пацанов (1,0\"х48)",
+   "value": 1,
+   "price": 5760.0,
+   "link": "https://youtu.be/BfOQYpYMteY",
+   "hide": false
+  },
+  {
+   "_id": "РС8260",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8260 Россия, вперёд! (1,25\"х36)",
+   "value": 1,
+   "price": 6780.0,
+   "link": "https://youtu.be/WFCcCNd1rq4",
+   "hide": false
+  },
+  {
+   "_id": "РС9030",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9030 Народный (0,8;1,0;1,2\"х48)",
+   "value": 1,
+   "price": 7080.0,
+   "link": "https://youtu.be/sPct7TmjCdc",
+   "hide": false
+  },
+  {
+   "_id": "РС8411",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС8411 Китеж-град (1,1\"х48)",
+   "value": 1,
+   "price": 7190.0,
+   "link": "https://youtu.be/CRce9jGdd5M",
+   "hide": false
+  },
+  {
+   "_id": "РС9500",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9500 Бородино (1,5\"х19)",
+   "value": 1,
+   "price": 7190.0,
+   "link": "https://youtu.be/oXv6NytVFJ4",
+   "hide": false
+  },
+  {
+   "_id": "РС7331",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7331 Новогодний сюрприз (1,1\"х48)",
+   "value": 1,
+   "price": 7200.0,
+   "link": "https://youtu.be/aVPRUHTVaqg",
+   "hide": false
+  },
+  {
+   "_id": "ОС6910",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "ОС6910 Танго (0,8\"х100)",
+   "value": 1,
+   "price": 7500.0,
+   "link": "https://youtu.be/5qjirXcWYkY",
+   "hide": false
+  },
+  {
+   "_id": "РС6641",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6641 Новогодняя соточка (0,8\"х100)",
+   "value": 1,
+   "price": 7790.0,
+   "link": "https://youtu.be/iZh6pXbzat0",
+   "hide": false
+  },
+  {
+   "_id": "Р7333",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7333 Дари радость! (0,8\"х66)",
+   "value": 1,
+   "price": 8290.0,
+   "link": "https://youtu.be/0CijcEuzbkE",
+   "hide": false
+  },
+  {
+   "_id": "РС6070",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6070 Новогодние цветы (168х0,6\")",
+   "value": 1,
+   "price": 8460.0,
+   "link": "https://youtu.be/oUSVqqdlTQ0",
+   "hide": false
+  },
+  {
+   "_id": "Р7530",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7530 Искандер (1,0\"х64)",
+   "value": 1,
+   "price": 8560.0,
+   "link": "https://youtu.be/VXl5u6jnotQ",
+   "hide": false
+  },
+  {
+   "_id": "РС9505",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9505 Полтава (1,5\"х25)",
+   "value": 1,
+   "price": 9590.0,
+   "link": "https://youtu.be/5eOft61OHjU",
+   "hide": false
+  },
+  {
+   "_id": "Р8762",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р8762 Огонь, батарея (2,0\"х25)",
+   "value": 1,
+   "price": 14100.0,
+   "link": "https://youtu.be/g1mkxw1ouo0",
+   "hide": false
+  },
+  {
+   "_id": "РС7541",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7541 Цветопредставление (1,1\"х100)",
+   "value": 1,
+   "price": 14390.0,
+   "link": "https://youtu.be/l2Nx_u8TxWY",
+   "hide": false
+  },
+  {
+   "_id": "Р7380",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7380 Самый лучший день! (0,8\"х178)",
+   "value": 1,
+   "price": 20390.0,
+   "link": "https://youtu.be/WOoV8YbtNCY",
+   "hide": false
+  },
+  {
+   "_id": "РС9075",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9075 Хит сезона (0,8;1,0;1,2\"х130)",
+   "value": 1,
+   "price": 21540.0,
+   "link": "https://youtu.be/C-BqTReboKI",
+   "hide": false
+  },
+  {
+   "_id": "Р7543",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р7543 Гвардейский салют (1,0\"х138)",
+   "value": 1,
+   "price": 22920.0,
+   "link": "https://youtu.be/eRE1fh9ePMM",
+   "hide": false
+  },
+  {
+   "_id": "РС9710",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9710 Курская битва (2,75\"х19)",
+   "value": 1,
+   "price": 23880.0,
+   "link": "https://youtu.be/eEHdVym2nRU",
+   "hide": false
+  },
+  {
+   "_id": "РС9660",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9660 Брызги Абрау (2,0\"х49)",
+   "value": 1,
+   "price": 36710.0,
+   "link": "https://youtu.be/5MHpUJxSQo0",
+   "hide": false
+  },
+  {
+   "_id": "Р8452",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р8452 Дерзкая роскошь (0,8\";1,25\"х190)",
+   "value": 1,
+   "price": 39000.0,
+   "link": "https://youtu.be/mbi0lTYVilg",
+   "hide": false
+  },
+  {
+   "_id": "РС9230",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9230 Русская душа (1,0;1,2;1,5\"х175)",
+   "value": 1,
+   "price": 42710.0,
+   "link": "https://youtu.be/8-4TtZN97bc",
+   "hide": false
+  },
+  {
+   "_id": "РС9240",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9240 Любовь и голуби (0,8;1,0;1,2\"х288)",
+   "value": 1,
+   "price": 46790.0,
+   "link": "https://youtu.be/q2E70qZr3Ek",
+   "hide": false
+  },
+  {
+   "_id": "РС6800",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС6800 Красота с гарантией (0,8\"х450)",
+   "value": 1,
+   "price": 49190.0,
+   "link": "https://youtu.be/xeIk_hfmm00",
+   "hide": false
+  },
+  {
+   "_id": "Р8380",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "Р8380 Золотой резерв ,(0,6\";1,0\";1,25\"х272)",
+   "value": 1,
+   "price": 53400.0,
+   "link": "https://youtu.be/XXmbBtnCXY4",
+   "hide": false
+  },
+  {
+   "_id": "РС7972",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС7972 Сказочная страна (1,0\"х300)",
+   "value": 1,
+   "price": 56390.0,
+   "link": "https://youtu.be/XVX8YG-CC-w",
+   "hide": false
+  },
+  {
+   "_id": "РС9245",
+   "category": "Батареи салютов  (калибр Х колич. стволов)",
+   "title": "РС9245 Горжусь Россией! (1,0;1,2;1,5\"х308)",
+   "value": 1,
+   "price": 71990.0,
+   "link": "https://youtu.be/CQcpOZ5BGko",
+   "hide": false
+  },
+  {
+   "_id": "РС3550",
+   "category": "Дневные салюты",
+   "title": "РС3550 Хорошее настроение (1,2\"х25)",
+   "value": 1,
+   "price": 9600.0,
+   "link": "https://youtu.be/FfG2DgD2R1s",
+   "hide": false
+  },
+  {
+   "_id": "РС3560",
+   "category": "Дневные салюты",
+   "title": "РС3560 Дым веером (1,4\"х25)",
+   "value": 1,
+   "price": 11735.0,
+   "link": "https://youtu.be/EpTVadza7ag",
+   "hide": false
+  },
+  {
+   "_id": "РС3480",
+   "category": "Дымы",
+   "title": "РС3480 Белый Цветной дым 25",
+   "value": 5,
+   "price": 880.0,
+   "link": "https://youtu.be/3GIf4q1Crl4",
+   "hide": false
+  },
+  {
+   "_id": "РС3480",
+   "category": "Дымы",
+   "title": "РС3480 Желтый Цветной дым 25",
+   "value": 5,
+   "price": 880.0,
+   "link": "https://youtu.be/3GIf4q1Crl4",
+   "hide": false
+  },
+  {
+   "_id": "РС3480",
+   "category": "Дымы",
+   "title": "РС3480 Зеленый Цветной дым 25",
+   "value": 5,
+   "price": 1040.0,
+   "link": "https://youtu.be/3GIf4q1Crl4",
+   "hide": false
+  },
+  {
+   "_id": "РС3480",
+   "category": "Дымы",
+   "title": "РС3480 Красный Цветной дым 25",
+   "value": 5,
+   "price": 1040.0,
+   "link": "https://youtu.be/3GIf4q1Crl4",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Белый Цветной дым 30",
+   "value": 5,
+   "price": 2320.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Желтый Цветной дым 30",
+   "value": 5,
+   "price": 2320.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Зеленый Цветной дым 30",
+   "value": 5,
+   "price": 3095.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Красный Цветной дым 30",
+   "value": 5,
+   "price": 3095.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Оранжевый Цветной дым 30",
+   "value": 5,
+   "price": 3095.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Синий Цветной дым 30",
+   "value": 5,
+   "price": 3095.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3485",
+   "category": "Дымы",
+   "title": "РС3485 Фиолетовый Цветной дым 30",
+   "value": 5,
+   "price": 3095.0,
+   "link": "https://youtu.be/eUsy3dSpuhg",
+   "hide": false
+  },
+  {
+   "_id": "РС3495",
+   "category": "Дымы",
+   "title": "РС3495 Белый Цветной дым 40",
+   "value": 5,
+   "price": 1240.0,
+   "link": "https://youtu.be/fUzqRwTvPi8",
+   "hide": false
+  },
+  {
+   "_id": "РС3495",
+   "category": "Дымы",
+   "title": "РС3495 Желтый Цветной дым 40",
+   "value": 5,
+   "price": 1240.0,
+   "link": "https://youtu.be/fUzqRwTvPi8",
+   "hide": false
+  },
+  {
+   "_id": "РС3495",
+   "category": "Дымы",
+   "title": "РС3495 Зеленый Цветной дым 40",
+   "value": 5,
+   "price": 1460.0,
+   "link": "https://youtu.be/fUzqRwTvPi8",
+   "hide": false
+  }
+ ]
+}
