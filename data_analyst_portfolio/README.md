@@ -1,20 +1,15 @@
 # Projects
 
-## 1. Avito_parser
+## 1. Парсер информации с рынка недвижимости
 
 Парсер объявлений о продаже недвижимости.
 Проход по страницам с объявлениями из поиска, сохранение кода страниц в файл.
 Парсинг кода страниц, сохранение данных из объявлений в csv таблицы.
 
-
 ### Usage
 
-*Setup*
-- Скопировать каталог "1_avito_parsing"
-- pip install bs4
-- pip install selenium
-- pip install webdriver_manager
-- pip install pandas
+*Использованные загружаемые бибилиотеки*
+Beautiful soup, selenium, webdriver_manager, pandas
 
 *Run*
 - main file: "Parser_avito_main_v.2.py"
@@ -22,15 +17,13 @@
 - csv to google sheets: "csv_to_google_sheets.py"
 - and service files
 
-Pages code and .csv files saves to dir "flats_from_avito"
-
 
 ## 2. Dashboard in DataLens
 Отображение данных из csv таблиц, полученных парсером, в удобном формате дашборда на Yandex DataLens
 Ссылка на дашборд: https://datalens.yandex.ru/ivkbx3xexkmg8-avito-nedvizhimost
 
 ## 3. Different tasks
-В этом каталоге представлены прочие проекты, выполненные в период обучения
+В этом каталоге представлены прочие проекты, выполненные в период проектной деятельности и обучения
 
 ### 3.1. Euler project
 Некоторые решенные задачи с ресурса "Проект Эйлера" https://euler.jakumo.org/problems.html
@@ -61,11 +54,12 @@ Pages code and .csv files saves to dir "flats_from_avito"
 ### 3.5. CSV_to_JSON converter
 Конвертор каталога товаров магазина из таблицы в формате CSV в формат JSON для автоматической загрузки товаров на сайт магазина
 
-## 5. Regular costs vizualization
-Выгрузка данных по ежемесячным тратам из GSpreadsheet в датафрейм, обработка и обратная загрузка в GS в удобный для Yandex DataLens формат. Построение дашборда
-Ссылка на дашборд: https://datalens.yandex.ru/zv0wbgx0kbyso-grafik-rashodov-i-dohodov
 
-## 6. Avito_parser (landplots)
+## 5. Визуализация ежемесячных расходов
+Выгрузка данных по ежемесячным тратам из GSpreadsheet в датафрейм, обработка и обратная загрузка в GS в удобный для Yandex DataLens формат. Построение дашборда
+
+
+## 6. Парсер информации с рынка земельных участков
 Парсер объявлений о продаже земельных участков.
 Проход по страницам с объявлениями из поиска, сохранение кода страниц в файл.
 Парсинг кода страниц, сохранение данных из объявлений в csv таблицы.
